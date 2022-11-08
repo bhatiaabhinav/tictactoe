@@ -1,0 +1,5 @@
+include("game.jl")
+include("tictactoe.jl")
+include("player.jl")
+include("humanplayer.jl")
+include("minmax.jl")
